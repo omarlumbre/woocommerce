@@ -9,3 +9,5 @@ lorem ipson.
 3. Manuel Terrones
 4. Cesar Zambrano
 5. Freddy Lumbre
+6. Charo Lumbre
+7. Agrege a Manuel Lumbre
