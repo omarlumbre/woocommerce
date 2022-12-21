@@ -10,3 +10,4 @@ lorem ipson.
 4. Cesar Zambrano
 5. Freddy Lumbre
 6. Charo Lumbre
+7. Agrege a Manuel Lumbre
