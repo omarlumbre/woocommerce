@@ -8,3 +8,4 @@ lorem ipson.
 2. Daniel Mines
 3. Manuel Terrones
 4. Cesar Zambrano
+5. Freddy Lumbre
