@@ -12,3 +12,4 @@ lorem ipson.
 6. LINUX (dev)
 7. TYPESCRIPT
 8. MYSQL
+9. ORACLE
