@@ -13,3 +13,4 @@ lorem ipson.
 7. TYPESCRIPT
 8. MYSQL
 9. ORACLE
+10. windows
