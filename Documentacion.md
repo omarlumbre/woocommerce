@@ -11,3 +11,4 @@ lorem ipson.
 5. APACHE (Dev)
 6. LINUX (dev)
 7. TYPESCRIPT
+8. MYSQL
