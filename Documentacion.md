@@ -2,8 +2,7 @@
 
 lorem ipson.
 
-# COLABORADORES
+# TECONLOGIA:
 
-1. Isabel Monsalve
-2. Daniel Mines
-3. Manuel Terrones
+1. HTML
+2. CSS
