@@ -10,3 +10,4 @@ lorem ipson.
 4. BOOTSTRAP
 5. APACHE (Dev)
 6. LINUX (dev)
+7. TYPESCRIPT
