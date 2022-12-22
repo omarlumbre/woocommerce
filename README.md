@@ -11,3 +11,4 @@ lorem ipson.
 5. Freddy Lumbre
 6. Charo Lumbre
 7. Agrege a Manuel Lumbre
+8. Agrege a Tomas Lumbre desde Github
