@@ -11,7 +11,4 @@ lorem ipson.
 5. Freddy Lumbre
 6. Charo Lumbre
 7. Agrege a Manuel Lumbre
-8. Agrege a Miguel Zambrano
-9. Agrege a Rocio Bustamante
-10. Iris nalvarte Salsedo.
-11. Agrege a Raquel Jannet Sanchez Lopez la linda del mundo conocido y martey saturno.
+8. Vivian Gonzales
