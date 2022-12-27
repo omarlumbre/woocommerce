@@ -4,16 +4,6 @@ lorem ipson.
 
 # TECONLOGIA:
 
-1. HTML
-2. CSS
-3. JAVASCRIPT
-4. BOOTSTRAP
-5. APACHE (Dev)
-6. LINUX (dev)
-7. TYPESCRIPT
-8. MYSQL
-9. ORACLE
-10. windows
-11. IOS
-12. MANGO
-13. Agrege pepinos
+1. Isabel Monsalve
+2. Daniel Mines
+3. Manuel Terrones
