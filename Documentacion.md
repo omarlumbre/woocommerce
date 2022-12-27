@@ -2,7 +2,7 @@
 
 lorem ipson.
 
-# COLABORADORES
+# TECONLOGIA:
 
 1. Isabel Monsalve
 2. Daniel Mines
@@ -18,3 +18,7 @@ lorem ipson.
 11. El profe
 11. William
 12. Rafael
+
+#SECRETARIA (desde mac):
+1. Diana Aquino
+
